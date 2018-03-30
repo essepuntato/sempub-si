@@ -1,3 +1,3 @@
-## Welcome to the Special Issue
+## Publications (MDPI) Special Issue on Semantic Publishing
 
 Test para
