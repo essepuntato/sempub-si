@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: Semantic Publishing
 description: [Publications (MDPI)](http://www.mdpi.com/journal/publications) Special Issue
+show_downloads: false
